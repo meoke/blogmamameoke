@@ -3,7 +3,7 @@ template: post
 title: Magia Rodzicielstwa według Hedvig Montgomery
 slug: magia-rodzicielstwa-wedug-hedvig
 socialImage: /media/tlo.jpg
-draft: true
+draft: false
 date: 2021-04-27T13:38:07.912Z
 description: Recenzja książki Hedvig Montgomery pt. "Magia rodzicielstwa"
 category: recenzja
