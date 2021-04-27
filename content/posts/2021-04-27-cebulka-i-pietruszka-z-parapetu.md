@@ -5,7 +5,7 @@ slug: cebulka-pietruszka
 socialImage: /media/post_banner.png
 draft: false
 date: 2020-04-21T20:54:00.000Z
-description: czyli jak najprostszy ogródek na świecie.
+description: czyli najprostszy ogródek na świecie.
 category: rośliny
 ---
 W życiu bym nie pomyślała, że to takie łatwe. Polecam!
