@@ -29,6 +29,7 @@ Na podstawie tych zdjęć stworzyłam też karty trójdzielne Montessori, które
 ## Lekcja trójstopniowa
 
 Karty to taka pomoc, którą można na różne sposoby wykorzystać, np. w lekcji trójstopniowej:
+
 1. Prezentacja - pokaż dziecku ilustracje pojęć (każdą z osobna) i nazwij je.
 2. Używajcie ilustracji (już wszystkich naraz), rozmawiajcie o nich. Poproś o podanie którejś itp.
 3. Sprawdź, czy dziecko zapamiętało nazwy i rozróżnia je. 
@@ -36,3 +37,7 @@ Karty to taka pomoc, którą można na różne sposoby wykorzystać, np. w lekcj
 ## A oto zdjęcia z podpisami:
 
 ![Tasznik pospolity](/media/20200427_133434.jpg "Tasznik pospolity")
+
+![Stokrotka pospolita](/media/20200427_133905.jpg "Stokrotka pospolita")
+
+![Mniszek pospolity](/media/20200427_140451.jpg "Mniszek pospolity")
