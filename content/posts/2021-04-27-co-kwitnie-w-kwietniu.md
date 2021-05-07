@@ -2,7 +2,7 @@
 template: post
 title: Co kwitnie w kwietniu
 slug: kwiecien-w-miescie
-socialImage: /media/02_post_banner.png
+socialImage: /media/02_laka/post_banner.png
 draft: false
 date: 2020-05-01T21:15:00.000Z
 description: czyli coś poza mleczem i stokrotką.
@@ -34,10 +34,14 @@ Karty to taka pomoc, którą można na różne sposoby wykorzystać, np. w lekcj
 2. Używajcie ilustracji (już wszystkich naraz), rozmawiajcie o nich. Poproś o podanie którejś itp.
 3. Sprawdź, czy dziecko zapamiętało nazwy i rozróżnia je. 
 
-## A oto zdjęcia z podpisami:
+## A oto przykładowe zdjęcia z podpisami:
 
-![Tasznik pospolity](/media/20200427_133434.jpg "Tasznik pospolity")
+![Tasznik pospolity](/media/02_laka/20200427_133434.jpg "Tasznik pospolity")
 
-![Stokrotka pospolita](/media/20200427_133905.jpg "Stokrotka pospolita")
+![Stokrotka pospolita](/media/02_laka/20200427_133905.jpg "Stokrotka pospolita")
 
-![Mniszek pospolity](/media/20200427_140451.jpg "Mniszek pospolity")
+![Mniszek pospolity](/media/02_laka/20200427_140451.jpg "Mniszek pospolity")
+
+![Gwiazdnica pospolita](/media/02_laka/20200427_140757.jpg "Gwiazdnica pospolita")
+
+![Jasnota purpurowa](/media/02_laka/20200427_142226.jpg "Jasnota purpurowa")

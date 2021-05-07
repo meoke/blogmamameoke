@@ -2,7 +2,7 @@
 template: post
 title: Magia Rodzicielstwa według Hedvig Montgomery
 slug: magia-rodzicielstwa-wedug-hedvig
-socialImage: /media/tlo.jpg
+socialImage: /media/25_magia/post_banner.jpg
 draft: false
 date: 2021-04-27T13:38:07.912Z
 description: Recenzja książki Hedvig Montgomery pt. "Magia rodzicielstwa"
@@ -14,7 +14,7 @@ To okoliczności nabycia przeze mnie *Magii Rodzicielstwa* Hedvig Montgomery. 
 
 ## Obietnice
 
-![Okładka książki "Magia rodzicielstwa"](/media/20210421_212318.jpg "Okładka")
+![Okładka książki "Magia rodzicielstwa"](/media/25_magia/20210421_212318.jpg "Okładka")
 
 Na okładce polskiego wydania pojawia się niesamowicie zachęcająca opinia samego **Jaspera Juula** (który swoją drogą zmarł tuż po jej wydaniu):
 
@@ -42,7 +42,8 @@ Każdy z rozdziałów zawiera ogólny opis oraz - moje ulubione - rozpiskę rad 
 
 Bardzo do mnie przemawia pastelowa szata graficzna, rameczki i jakaś taka ogólna (skandynawska?) elegancja.
 
-![Przykładowa zawartość](/media/20210421_212356.jpg "Przykładowa zawartość")
+
+![Przykładowa zawartość](/media/25_magia/20210421_212356.jpg "Przykładowa zawartość")
 
 ## Treść
 

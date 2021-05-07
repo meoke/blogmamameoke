@@ -2,7 +2,7 @@
 template: post
 title: Cebulka i pietruszka z parapetu
 slug: cebulka-pietruszka
-socialImage: /media/post_banner.png
+socialImage: /media/01_cebulka/post_banner.png
 draft: false
 date: 2020-04-21T20:54:00.000Z
 description: czyli najprostszy ogródek na świecie.
@@ -29,27 +29,27 @@ W życiu bym nie pomyślała, że to takie łatwe. Polecam!
 
 Świeżo posadzone: 
 
-![Długość uciętego korzenia pietruszki](/media/swiezo_1.jpg "Ile korzenia pietruszki zostawić")
+![Długość uciętego korzenia pietruszki](/media/01_cebulka/swiezo_1.jpg "Ile korzenia pietruszki zostawić")
 
-![Wystające fragmenty pietruszki](/media/swiezo_2.jpg "Wystające fragmenty pietruszki")
+![Wystające fragmenty pietruszki](/media/01_cebulka/swiezo_2.jpg "Wystające fragmenty pietruszki")
 
-![Cebula i pietruszka świeżo posadzone](/media/swiezo_3.jpg "Cebula i pietruszka świeżo posadzone")
+![Cebula i pietruszka świeżo posadzone](/media/01_cebulka/swiezo_3.jpg "Cebula i pietruszka świeżo posadzone")
 
 Troszkę urosły...
 
-![Cebula troszkę urosła](/media/urosly.jpg "Cebula troszkę urosła")
+![Cebula troszkę urosła](/media/01_cebulka/urosly.jpg "Cebula troszkę urosła")
 
-![Pietruszka troszkę urosła](/media/urosly_2.jpg "Pietruszka troszkę urosła")
+![Pietruszka troszkę urosła](/media/01_cebulka/urosly_2.jpg "Pietruszka troszkę urosła")
 
 I jest jedzone!
 
-![Cebula urosła](/media/jedzone.jpg "Cebula urosła")
+![Cebula urosła](/media/01_cebulka/jedzone.jpg "Cebula urosła")
 
-![Pietruszka urosła](/media/jedzone_2.jpg "Pietruszka urosła")
+![Pietruszka urosła](/media/01_cebulka/jedzone_2.jpg "Pietruszka urosła")
 
 Obserwacje potrafią być wnikliwe :D
 
-![Cebula wyrwana z korzeniami](/media/obserwacje.jpg "Wnikliwe obserwacje rosnącej rośliny")
+![Cebula wyrwana z korzeniami](/media/01_cebulka/obserwacje.jpg "Wnikliwe obserwacje rosnącej rośliny")
 
 U mnie stały w mieszkaniu, na parapecie przy oknie wschodnim i było im dobrze. Cebula zaczęła się ukorzeniać i rosnąć już po kilku dniach, a pietruszka potrzebowała więcej czasu. 
 
