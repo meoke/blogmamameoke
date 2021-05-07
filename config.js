@@ -1,43 +1,47 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://mamameoke.pl',
   pathPrefix: '/',
   title: 'Blog Mamy Meoke',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  subtitle: 'Dla rodziców dzikich dzieci, spragnionych ściąg z aktywnościami, instrukcji projektów DIY i recenzji poradników.',
+  copyright: '© All rights reserved. Paulina Dziadkiewicz',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Wszystkie artykuły',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Recenzje poradników',
+      path: '/category/reviews'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Zabawki DIY',
+      path: '/category/diy'
+    },
+    {
+      label: 'Dzikie dziecko',
+      path: '/category/nature'
     }
   ],
   author: {
     name: 'Paulina Dziadkiewicz',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/author.jpg',
+    bio: 'Wkręciłam się w bycie mamą. Wrzucam tu recenzje książek oraz gotowce, żebyś już Ty nie musiał_a ich przygotowywać :)',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'pedziadkiewicz@gmail.com',
+      facebook: 'mamameoke',
+      telegram: '',
+      twitter: '',
+      github: 'meoke/blogmamameoke',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'pdziadkiewicz',
+      instagram: 'mamameoke_czyta',
       line: '',
       gitlab: '',
       weibo: '',
