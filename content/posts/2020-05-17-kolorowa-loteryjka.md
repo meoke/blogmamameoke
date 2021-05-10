@@ -6,7 +6,7 @@ socialImage: /media/04_loteryjka/post_banner.png
 draft: false
 date: 2020-05-17T20:54:00.000Z
 description: czyli owocowo-warzywna gra dla dwulatka
-category: nature
+category: natura
 ---
 
 ## Pierwsza planszówka

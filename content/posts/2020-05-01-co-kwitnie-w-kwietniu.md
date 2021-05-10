@@ -6,7 +6,7 @@ socialImage: /media/02_laka/post_banner.png
 draft: false
 date: 2020-05-01T21:15:00.000Z
 description: czyli coś poza mleczem i stokrotką.
-category: rosliny
+category: natura
 ---
 ## Idea
 

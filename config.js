@@ -17,11 +17,11 @@ module.exports = {
     },
     {
       label: 'Tydzień malucha',
-      path: '/category/week'
+      path: '/category/aktywnosci'
     },
     {
       label: 'Książki o dzieciach',
-      path: '/category/reviews'
+      path: '/category/recenzja'
     },
     {
       label: 'Zabawki DIY',
@@ -29,7 +29,11 @@ module.exports = {
     },
     {
       label: 'Blisko natury',
-      path: '/category/nature'
+      path: '/category/natura'
+    },
+    {
+      label: 'Inne',
+      path: '/category/inne'
     }
   ],
   author: {
