@@ -5,7 +5,7 @@ slug: magia-rodzicielstwa-wedug-hedvig
 socialImage: /media/25_magia/post_banner.jpg
 draft: false
 date: 2021-04-27T13:38:07.912Z
-description: Recenzja książki Hedvig Montgomery pt. "Magia rodzicielstwa"
+description: czyli trochę Norwegii dla polskiego dziecka
 category: recenzja
 ---
 Mazury, sierpniowe słońce, urlop z roczniakiem...
