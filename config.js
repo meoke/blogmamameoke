@@ -12,11 +12,15 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Wszystkie artykuły',
-      path: '/'
+      label: 'O mnie',
+      path: '/pages/about'
     },
     {
-      label: 'Recenzje poradników',
+      label: 'Tydzień malucha',
+      path: '/category/week'
+    },
+    {
+      label: 'Książki o dzieciach',
       path: '/category/reviews'
     },
     {
@@ -24,14 +28,14 @@ module.exports = {
       path: '/category/diy'
     },
     {
-      label: 'Dzikie dziecko',
+      label: 'Blisko natury',
       path: '/category/nature'
     }
   ],
   author: {
-    name: 'Paulina Dziadkiewicz',
+    name: 'Mama Meoke',
     photo: '/author.jpg',
-    bio: 'Wkręciłam się w bycie mamą. Wrzucam tu recenzje książek oraz gotowce, żebyś już Ty nie musiał_a ich przygotowywać :)',
+    bio: 'To mój blog-notes z gotowcami dla rodziców. Znajdziesz tu pomysły na tematyczne aktywności, projekty zabawek DIY, a także recenzje książek o rozwoju dzieci.',
     contacts: {
       email: 'pedziadkiewicz@gmail.com',
       facebook: 'mamameoke',

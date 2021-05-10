@@ -1,13 +1,15 @@
 ---
-title: "About me"
+title: "O mnie"
 template: "page"
-socialImage: "/media/logo.jpg"
+socialImage: "/media/logo.png"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Cześć!
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/logo.jpg)
+Nazywam się Paulina Dziadkiewicz, a w internecie występuję zazwyczaj jako Meoke.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Jestem fanką Rodzicielstwa Bliskości, NVC, czerpię z Montessori, chciałabym żyć blisko natury. A to wszystko odkryłam dzięki byciu mamą - stąd Mama Meoke :)
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Bardzo wkręciłam się w rodzicielstwo - facebookowe grupy rodzicielskie, biblioteczny dział o rozwoju dziecka, pinterestowe inspiracje - stały się istotną częścią mojego życia. Przeszukiwanie materiałów bywa jednak dla mnie źródłem frustracji, dlatego dla każdego ogarniętego przeze mnie "projektu" chciałam stworzyć tutaj pamiątkę. A przeczytane okołodzieciowe poradniki staram się opisywać, by pomóc Ci podjąć decyzję, czy chcesz przeznaczać na nie swój czas.
+
+Potraktuj proszę tego bloga jako luuuźną inspirację, zeszyt z gotowcami, bez spiny. Posty opisują rzeczy, które sprawiają mi przyjemność i nie powinny one wskakiwać na Twoją todolistę, jeśli nie masz na nie ochoty!!!
