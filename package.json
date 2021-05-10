@@ -1,7 +1,7 @@
 {
-  "version": "3.0.7",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "version": "1.0.0",
+  "name": "blogmamameoke",
+  "description": "A parenting blog by @meoke, based on gatsby-starter-lumen",
   "main": "n/a",
   "scripts": {
     "develop": "yarn clean && gatsby develop",
@@ -17,7 +17,7 @@
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
   "repository": "https://github.com/meoke/blogmamameoke",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "author": "Paulina Dziadkiewicz <pedziadkiewicz@gmail.com>",
   "license": "MIT",
   "keywords": [
     "gatsby",
