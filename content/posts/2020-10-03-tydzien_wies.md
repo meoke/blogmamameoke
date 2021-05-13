@@ -5,7 +5,7 @@ slug: tydzien-malucha-wies
 socialImage: /media/12_tydzien_wies/kon_na_ksiazce.png
 draft: false
 date: 2020-10-03T20:54:00.000Z
-description: czyli multisensoryczne doświadczenie tematu wsi
+description: czyli multisensoryczne doświadczenie wsi
 category: aktywnosci
 ---
 
@@ -28,7 +28,7 @@ Będę wrzucała kilka zdjęć, linków i listę moich propozycji, również w w
 
 Wybrałam na start ten temat, bo uświadomiłam sobie, że mój syn wie o wsi co najwyżej jak robi świnka, jak kurka, a jak krowa :p Dla mieszczuchów doświadczyć uroku zwierząt gospodarskich to może być problem, ale bardzo polecam spytać na lokalnej grupie, czy gdzieś w okolicy nie ma np. ogródka z kurami, które można zobaczyć od ulicy. 
 
-### LISTA AKTYWNOŚCI
+### AKTYWNOŚCI
 
 - ZABAWA NA DYWANIE:  zwierzątka (figurki Schleich, Collecta itp. są dostępne w Smyku, Rossmanie, Pepco, na OLX, Allegro i bazarkach na FB) i ich domki (nasza makieta była bardzo prowizoryczna, ale zdała egzamin - pudło po Duplo pocięte na "zagrody", trawa - prostokąty z filcu, siano z jakiegoś wypełnienia paczki), które można nazywać: świnki mieszkają w chlewiku, kury w kurniku itd.,
 
@@ -54,7 +54,6 @@ Wybrałam na start ten temat, bo uświadomiłam sobie, że mój syn wie o wsi co
 
 ### AKTYWNOŚCI - WERSJA DO DRUKU
 Pobierz [tutaj](https://1drv.ms/b/s!AnBGESr7ZM4Nm6hme6oz2kx-WD6XYg?e=6O8aaI) wersję PDF.
-
 
 ### Nasza zabawa
 
