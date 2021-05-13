@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog Mamy Meoke',
   subtitle: 'Dla rodziców dzikich dzieci, spragnionych ściąg z aktywnościami, instrukcji projektów DIY i recenzji poradników.',
-  copyright: '© All rights reserved. Paulina Dziadkiewicz',
+  copyright: '© Wszelkie prawa zastrzeżone. Paulina Dziadkiewicz',
   disqusShortname: '',
   postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',

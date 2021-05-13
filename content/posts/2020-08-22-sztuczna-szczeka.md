@@ -9,9 +9,9 @@ description: myjemy zęby na sucho
 category: diy
 ---
 
- To dzieło może nie nadaje się na zwycięzcę w konkursie na Estetyczne Cacko, ale zapewniam - działa i interesuje dwulatka! Przedstawiam sztuczną szczękę zero waste 😀
+To dzieło może nie nadaje się na zwycięzcę w konkursie na Estetyczne Cacko, ale zapewniam - działa i interesuje dwulatka! Przedstawiam sztuczną szczękę zero waste 😀
 
- ![Sztuczna szczęka](/media/09_szczeka/sztuczna_szczeka.jpg "Sztuczna szczęka")
+![Sztuczna szczęka](/media/09_szczeka/sztuczna_szczeka.jpg "Sztuczna szczęka")
 
 Zęby to dla mnie szalenie ważny temat. Na wizyty chodzimy od pierwszego ząbka. Wiem też co to RTG paszczy u roczniaka, chociaż tego akurat nie polecam (ale który roczniak nie lubi biegania po kafelkach...?). Jeśli więc temat jest również dla Ciebie, Droga Czytelniczko, ważny i chciałabyś:
 

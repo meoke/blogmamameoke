@@ -6,7 +6,7 @@ socialImage: /media/10_recenzja_dwulatki_trzylatki/post_banner.png
 draft: false
 date: 2020-07-21T20:54:00.000Z
 description: czyli wskazówki kultowych polskich pedagożek
-category: inne
+category: recenzja
 ---
 
 ## Mam w domu dwulatka, co robić?!

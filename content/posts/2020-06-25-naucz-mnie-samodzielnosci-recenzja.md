@@ -6,7 +6,7 @@ socialImage: /media/07_samodzielnosc/post_banner.png
 draft: false
 date: 2020-06-25T20:54:00.000Z
 description: czyli niecodzienne spojrzenie na codzienne zajęcia
-category: inne
+category: recenzja
 ---
 
 ## Podręcznik dla rodzica
