@@ -12,4 +12,4 @@ Jestem fanką Rodzicielstwa Bliskości, NVC, czerpię z Montessori, chciałabym 
 
 Bardzo wkręciłam się w rodzicielstwo - facebookowe grupy rodzicielskie, biblioteczny dział o rozwoju dziecka, pinterestowe inspiracje - stały się istotną częścią mojego życia. Przeszukiwanie materiałów bywa jednak dla mnie źródłem frustracji, dlatego dla każdego ogarniętego przeze mnie "projektu" chciałam stworzyć tutaj pamiątkę. A przeczytane okołodzieciowe poradniki staram się opisywać, by pomóc Ci podjąć decyzję, czy chcesz przeznaczać na nie swój czas.
 
-Potraktuj proszę tego bloga jako luuuźną inspirację, zeszyt z gotowcami, bez spiny. Posty opisują rzeczy, które sprawiają mi przyjemność i nie powinny one wskakiwać na Twoją todolistę, jeśli nie masz na nie ochoty!!!
+Potraktuj proszę tego bloga jako luuuźną inspirację, zeszyt z gotowcami, bez spiny. Posty opisują rzeczy, które sprawiają mi przyjemność i nie powinny one wskakiwać na Twoją todolistę, jeśli nie masz na nie ochoty ;)

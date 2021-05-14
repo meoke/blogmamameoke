@@ -6,7 +6,7 @@ socialImage: /media/24_wiosna/serce.jpg
 draft: false
 date: 2021-03-27T20:54:00.000Z
 description: czyli multisensoryczne doświadczenie wiosny 
-category: aktywnosci
+category: aktywności
 ---
 
 Zabiegany rodzicu! Jeśli mimo lockdownu, marcowego śniegu i szalonych czasów chcesz pokazać dziecku wiosnę, proszę - łap ściągę :)

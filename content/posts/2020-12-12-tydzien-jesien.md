@@ -6,7 +6,7 @@ socialImage: /media/17_tydzien_malucha_jesien/post_banner.png
 draft: false
 date: 2020-12-12T20:54:00.000Z
 description: czyli multisensoryczne doświadczenie jesieni
-category: aktywnosci
+category: aktywności
 ---
 
 ## Idea
@@ -33,14 +33,14 @@ Angażują zmysły, są łatwe do wykonania, skutecznie wymazują wyrzuty sumien
 Pobierz [tutaj](https://1drv.ms/b/s!AnBGESr7ZM4Nm6hk0ybsRYA0KT1ilQ?e=8ReO5H) wersję PDF.
 
 ### Nasza zabawa
-<!-- ![Szukamy kasztanów](/media/17_tydzien_malucha_jesien/gdzie_kasztany.jpg "Szukamy kasztanów") -->
+![Szukamy kasztanów](/media/17_tydzien_malucha_jesien/gdzie_kasztany.jpg "Szukamy kasztanów")
 
-<!-- ![Śnieguliczka](/media/17_tydzien_malucha_jesien/snieguliczka.jpg "Śnieguliczka") -->
+![Śnieguliczka](/media/17_tydzien_malucha_jesien/snieguliczka.jpg "Śnieguliczka")
 
-<!-- ![Berberys](/media/17_tydzien_malucha_jesien/berberys.jpg "Berberys") -->
+![Berberys](/media/17_tydzien_malucha_jesien/berberys.jpg "Berberys")
 
 ![Dynia gotowa do pieczenia](/media/17_tydzien_malucha_jesien/dynia_do_pieczenia.jpg "Dynia gotowa do pieczenia")
 
-<!-- ![Mniam](/media/17_tydzien_malucha_jesien/mniam.jpg "Mniam") -->
+![Mniam](/media/17_tydzien_malucha_jesien/mniam.jpg "Mniam")
 
-<!-- ![Babeczki](/media/17_tydzien_malucha_jesien/babeczki.jpg "Babeczki") -->
+![Babeczki](/media/17_tydzien_malucha_jesien/babeczki.jpg "Babeczki")

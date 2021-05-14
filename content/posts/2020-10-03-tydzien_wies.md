@@ -2,11 +2,11 @@
 template: post
 title: Tydzień malucha - Wieś!
 slug: tydzien-malucha-wies
-socialImage: /media/12_tydzien_wies/kon_na_ksiazce.png
+socialImage: /media/12_tydzien_wies/kon_na_ksiazce.jpg
 draft: false
 date: 2020-10-03T20:54:00.000Z
 description: czyli multisensoryczne doświadczenie wsi
-category: aktywnosci
+category: aktywności
 ---
 
 Dzisiejszy post to mam nadzieję pierwszy z serii wielu postów **Tydzień malucha**. 

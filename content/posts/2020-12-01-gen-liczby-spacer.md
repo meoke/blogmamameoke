@@ -6,7 +6,7 @@ socialImage: /media/16_gen_liczby_spacer/post_banner.jpg
 draft: false
 date: 2020-12-01T20:54:00.000Z
 description: czyli matematyka dla dzikich dzieci
-category: aktywnosci
+category: aktywności
 ---
 
 ## Matematyka jest wszędzie

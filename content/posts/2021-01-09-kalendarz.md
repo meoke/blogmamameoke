@@ -2,7 +2,7 @@
 template: post
 title: Drugie życie zeszłorocznego kalendarza ściennego 
 slug: drugie-zycie-kalendarza
-socialImage: /media/19_kalendarz/post_banner.jpg
+socialImage: /media/19_kalendarz/post_banner.png
 draft: false
 date: 2021-01-09T20:54:00.000Z
 description: czyli nasza pierwsza pomoc w przeliczaniu

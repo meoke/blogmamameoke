@@ -5,7 +5,7 @@ slug: prezenty-noworodek-na-lata
 socialImage: /media/05_prezenty/post_banner.png
 draft: false
 date: 2020-05-31T20:54:00.000Z
-description: czyli jak nie zasypać rodziców plastikiem.
+description: czyli jak nie zasypać rodziców plastikiem
 category: inne
 ---
 

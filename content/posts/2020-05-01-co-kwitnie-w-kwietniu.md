@@ -5,7 +5,7 @@ slug: kwiecien-w-miescie
 socialImage: /media/02_laka/post_banner.png
 draft: false
 date: 2020-05-01T21:15:00.000Z
-description: czyli coś poza mleczem i stokrotką.
+description: czyli coś poza mleczem i stokrotką
 category: natura
 ---
 ## Idea

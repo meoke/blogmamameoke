@@ -5,7 +5,7 @@ slug: cebulka-pietruszka
 socialImage: /media/01_cebulka/post_banner.png
 draft: false
 date: 2020-04-21T20:54:00.000Z
-description: czyli najprostszy ogródek na świecie.
+description: czyli najprostszy ogródek na świecie
 category: natura
 tags:
   - test

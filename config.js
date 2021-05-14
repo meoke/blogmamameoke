@@ -12,15 +12,11 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'O mnie',
-      path: '/pages/about'
-    },
-    {
-      label: 'Tydzień malucha',
+      label: 'Aktywności tematyczne',
       path: '/category/aktywnosci'
     },
     {
-      label: 'Książki o dzieciach',
+      label: 'Recenzje książek dla rodziców',
       path: '/category/recenzja'
     },
     {
@@ -34,7 +30,11 @@ module.exports = {
     {
       label: 'Inne',
       path: '/category/inne'
-    }
+    },
+    {
+      label: 'O mnie',
+      path: '/pages/about'
+    },
   ],
   author: {
     name: 'Mama Meoke',

@@ -2,7 +2,7 @@
 template: post
 title: Książki o neurodydaktyce
 slug: ksiazki-neurodydaktyka
-socialImage: /media/11_neurodydaktyka/post_banner.png
+socialImage: /media/11_neurodydaktyka/post_banner.jpg
 draft: false
 date: 2020-09-01T20:54:00.000Z
 description: czyli minirecenzje z obszaru neuronauki

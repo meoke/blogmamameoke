@@ -5,7 +5,7 @@ slug: sztuczna-szczeka
 socialImage: /media/09_szczeka/sztuczna_szczeka.png
 draft: false
 date: 2020-08-22T20:54:00.000Z
-description: myjemy zęby na sucho
+description: czyli myjemy zęby na sucho
 category: diy
 ---
 

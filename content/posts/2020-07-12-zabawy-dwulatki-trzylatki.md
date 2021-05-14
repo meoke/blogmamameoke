@@ -6,7 +6,7 @@ socialImage: /media/08_zabawy_dwulatki_trzylatki/post_banner.png
 draft: false
 date: 2020-07-12T20:54:00.000Z
 description: czyli owocne sytuacje domowe
-category: aktywnosci
+category: aktywności
 ---
 
 ## Skrajne emocje
