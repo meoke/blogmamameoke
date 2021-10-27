@@ -17,9 +17,6 @@ Kto zna bloga [DyleMatki](https://dylematki.pl/), ten słyszał o self-reg. A kt
 ## Bestseller Shankera
 Dr Stuart Shanker to twórca metody samoregualcji, profesor York University, założyciel MEHRIT Centre, autor książek, z których największą popularność zdobyła właśnie:
 
-<zdjecie>
-
-
 
 Swoją opowieść snuje z perspektywy naukowca, terapeuty, edukatora i ojca. Nad zgrabnym ujęciem treści czuwała Teresa Barker, co zaowocowało tym, że mimo dużej objętości (ok. 300 stron) i ubogiej szaty graficznej, lektura była dla mnie porywająca. Składają się na nią:
 
@@ -39,10 +36,17 @@ wskazując na zależności między nimi, typowe stresory i ich objawy.
 Książka obfituje w opisy szczęśliwych historii tego, jak self-reg pomogło rodzinom, mierzącym się z różnymi problemami swoich dzieci. Większość tych przykładów, ale też spora część przekazywanej teorii odnosi się do przedszkolaków i młodszych uczniów, dlatego miłym domknięciem jest ostatnia, najkrótsza część - przełożenie na wiek nastoletni. Tutaj też sporo znajdziemy o biologicznych mechanizmach stojących za współczesnymi używkami - grami, śmieciowym jedzeniem i internetem.
 
 ## Przekaz
-Moja interpretacja: **Możesz osiągnąć wszystko, jeśli dobrze się czujesz. Dobrze się czujesz, jeśli Twój organizm ma zasoby na wykonywanie bieżących zadań. Życie obfituje w stresory, które istotnie zużywają nasze paliwo. Naucz się rozpoznawać stresory, postaraj ich unikać i wypracować techniki radzenia sobie z nimi.**
+Moja interpretacja: **Możesz osiągnąć wszystko, jeśli dobrze się czujesz. Dobrze się czujesz, jeśli Twój organizm ma zasoby na wykonywanie bieżących zadań. Życie obfituje w stresory, które istotnie zużywają nasze paliwo. Naucz się rozpoznawać stresory, postaraj ich unikać i wypracować techniki pozwalające na powrót do spokojnego stanu.**
 
 Podczas czytania wykonałam jakiś milion zdjęć cytatów - sporo ich przypadło mi do gustu. Pozwalam sobie na wklejenie kilku z nich:
-* 
+* "Dziecko uczy się samoregulacji, kiedy doświadcza regulacji z zewnątrz."
+* "Self-reg polega na tym, że patrzymy na cały system, a nie na najbardziej wyrazisty stresor."
+* "Im więcej energii zużywamy na próby hamowania potężnych impulsów, tym bardziej prawdopodobne, że poddamy im się albo od razu, albo wkrótce potem."
+* "Tak jak dla osoby opiekującej się dzieckiem, będącej w ekstremalnym stresie, dziecko może stać się powodem przeciążenia, podobnie dla dzieci stres innej osoby może być nadmiernym obciążeniem."
+* "Dziecko rzadko kiedy jest świadome tego, że jest skandalicznie skoncentrowane na sobie, a co dopiero do określenia powodów, dla których zachowuje się w taki sposób. To nasze zadanie."
+* "Pozytywne emocje dziecka *napełniają bak* energią, która pozwala na radzenie sobie z górkami i dołkami."
+
+
 
 ## Zabrakło...?
 * 🙊 **Obrazków** - Schematy, wykresy, rysunki - jestem pewna, że ułatwiłyby odbiór.
@@ -50,3 +54,5 @@ Podczas czytania wykonałam jakiś milion zdjęć cytatów - sporo ich przypadł
 * 🌻 **Lekkości?** - choć z jednej strony metoda samoregulacji może pomóc w równie efektywnym stopniu rodzicom, jak i dzieciom, to mam wrażenie, że przydałoby się słowo wsparcia do czytelnika-rodzica. Autor daje nam wiedzę, ale stawia też wymagania i podkreśla, że typowe placówki nie stosują self-reg. Zostajemy więc z piękną wizją, ale też sporym zadaniem domowym do odrobienia - potrafię sobie wyobrazić, że nie każdy ma możliwość je udźwignąć, będąc rodzicem.
 * 🏋️‍♂️**Dystansu** - no nie będę ukrywać, dokonania naukowe autora są jego oczkiem w głowie, ze wszystkimi tego następstwami 😉 
 
+## Polecam?
+No pewnie, że tak 🥰 Ale jeśli opisy układu limbicznego to dla Ciebie przesadne wejście w temat - to po prostu odsyłam do (Agnieszki)[https://dylematki.pl/o-mnie/]!
