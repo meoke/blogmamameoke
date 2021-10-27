@@ -1,6 +1,6 @@
 ---
 template: post
-title: Dr Stuart Shanker opowiada o Self-regulation
+title: Dr Stuart Shanker opowiada o samoregulacji
 slug: self-reg-shanker
 socialImage: /media/cover_photo.jpg
 draft: false
@@ -9,7 +9,7 @@ description: czyli kanadyjska siła spokoju dla całej rodziny
 category: recenzja
 tags: []
 ---
-Przeczytałam! *SELF-REG Jak pomóc dziecku (i sobie) nie dać się stresowi i żyć pełnią możliwości* dra Stuarta Shankera i Teresy Barker. Zgodnie z (zapowiedziami w poprzedniej recenzji)[https://mamameoke.pl/posts/self-reg-woko-nas], stawiałabym tę książkę raczej w dziale popularnonaukowym niż wśród lajfstajlowych poradników. A ja lubię dział popularnonaukowy 😎
+Przeczytałam! *SELF-REG Jak pomóc dziecku (i sobie) nie dać się stresowi i żyć pełnią możliwości* dra Stuarta Shankera i Teresy Barker. Zgodnie z [zapowiedziami w poprzedniej recenzji](https://mamameoke.pl/posts/self-reg-woko-nas), stawiałabym tę książkę raczej w dziale popularnonaukowym niż wśród lajfstajlowych poradników. A ja lubię dział popularnonaukowy 😎
 
 ## Self-reg w Polsce
 Kto zna bloga [DyleMatki](https://dylematki.pl/), ten słyszał o self-reg. A kto zna *Opowieści dla dzieci - O tym jak działać, gdy emocje biorą górę* (właśnie została wydana [3. część](https://www.znak.com.pl/ksiazka/self-regulation-nie-ma-niegrzecznych-dzieci-stazka-gawrysiak-agnieszka-207654)!), ten ma całkiem usystematyzowaną wiedzę o tej metodzie. Agnieszka Stążka-Gawrysiak wspaniale podaje ją w pigułce, w wersji do czytania razem z dzieckiem, z obrazkami, komentarzem dla rodzica i baardzo konkretnymi wskazówkami. Ale zaraz, miało być o Shankerze...?
