@@ -2,7 +2,7 @@
 template: post
 title: Dr Stuart Shanker opowiada o samoregulacji
 slug: self-reg-shanker
-socialImage: /media/cover_photo.jpg
+socialImage: /media/20211028_163520.jpg
 draft: false
 date: 2021-10-27T20:45:16.461Z
 description: czyli kanadyjska siła spokoju dla całej rodziny
