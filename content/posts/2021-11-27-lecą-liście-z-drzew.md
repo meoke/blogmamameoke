@@ -1,8 +1,8 @@
 ---
 template: post
 title: Lecą liście z drzew...
-slug: czyli jesienne zajęcia z wykorzystaniem liści
-socialImage: /media/20211028_140453.jpg
+slug: aktywnosci-liscie
+socialImage: /media/30_leca_liscie/spacer.jpg
 draft: false
 date: 2021-11-27T12:03:06.990Z
 description: Klika pomysłów na aktywności z liśćmi
@@ -17,17 +17,16 @@ Wrzucam kilka pomysłów, część oczywistych, część moich, część inspiro
 
    Instrukcja raczej zbędna 🙃 Poradzę tylko, że pomocne może być wzięcie ze sobą torby, plecaka płóciennego na liście - małym rączkom trudno jest utrzymać bukiet i z nim spacerować, a rodzicielskie ręce również zasługują na luz.
 
-   ![Jesienny las](/media/20211028_140453.jpg "Moja ulubiona pora roku")
+   ![Jesienny las](/media/30_leca_liscie/spacer.jpg "Moja ulubiona pora roku")
 
 ## Bukiet
 
 
 Wystarczy te liście po powrocie z dworu włożyć w jakieś godne miejsce i nadać mu tytuł eko-sreko-zero-waste jesiennej ozdoby domu. Nasz bukiet tak bardzo mnie cieszy! Zdrowo i zabawnie jest otworzyć się też na dziecięce pomysły w tym zakresie - nasz syn do bukietu dołożył patyki. 
 
-   ![Bukiet z kolorowych liści](/media/bukiet.jpg "Bukiety z liści, patyków i przekwitniętych kwiatów")
+   ![Bukiet z kolorowych liści](/media/30_leca_liscie/bukiet.jpg "Bukiety z liści, patyków i przekwitniętych kwiatów")
 
 ## Makieta lasu
-
 
 To już wyższa szkoła jazdy 😎 Inspiracja od [Kasi Frenczak-Sito (kukumag)](https://kukumag.com/jesienne-aktywnosci-pliki-do-pobrania/) Trochę zmodyfikowana, dość czasochłonna, ale nie tak jak mogłoby się wydawać. U nas nieco dzieło przypadku, ale efekt tak fajny, że naprawdę polecam zaplanować coś takiego. Do rzeczy!
 
@@ -50,17 +49,17 @@ Wykonanie:
 - w słomki powtykać liście
 - do lasu wprowadzić mieszkańców, jedzenie dla nich itd. 😊
 
-![Przygotowana glina samoutwarzdalna](/media/makieta1.jpg "Glina i tacka gotowe")
+![Przygotowana glina samoutwarzdalna](/media/30_leca_liscie/makieta1.jpg "Glina i tacka gotowe")
 
-![Wtykanie słomek przez filc do gliny](/media/makieta2.jpg "Wtykanie słomek")
+![Wtykanie słomek przez filc do gliny](/media/30_leca_liscie/makieta2.jpg "Wtykanie słomek")
 
-![Wtykanie liści w słomki](/media/makieta4.jpg "Makieta prawie gotowa")
+![Wtykanie liści w słomki](/media/30_leca_liscie/makieta4.jpg "Makieta prawie gotowa")
 
-![Makieta lasu](/media/makieta5.jpg "Efekt końcowy :)")
+![Makieta lasu](/media/30_leca_liscie/makieta5.jpg "Efekt końcowy :)")
 
 ## Zasuszenie liści w książce
 
-Tu trochę czasochłonna opcja, ale w końcu jesienne wieczory są coraz dłuższe... Do kolejnych pomysłów liście muszą być wysuszone i płaskie, trzeba je więc zasuszyć. Trzylatek ogarnął pomaganie - młodsze dzieci, chyba też będą przynajmniej zainteresowane..? Trzeba:
+Do kolejnych pomysłów liście muszą być wysuszone i płaskie, trzeba je więc zasuszyć. Trzylatek ogarnął pomaganie - młodsze dzieci, chyba też będą przynajmniej zainteresowane..? Trzeba:
 
 * przygotować duużo gazet/kartek i duże książki
 * powkładać liście między kartki książek, oddzielone oczywiście kartkami
@@ -70,27 +69,27 @@ Tu trochę czasochłonna opcja, ale w końcu jesienne wieczory są coraz dłużs
 ## Plakat
 No i tu właśnie można wykorzystać liście. Na brystolu, klejem w płynie, przykleiliśmy liście i zawiesiłam taki plakat w pokoju dziecięcym. Przyznaję, dość kontrolowałam wykonanie tej pracy (gdyby nie, plakat składałby się głównie z rozsmarowanego kleju). Ale plakat wisi i cieszy oko.
 
-![Brystol, klej i liście](/media/plakat1.jpg "Gotowi do pracy")
+![Brystol, klej i liście](/media/30_leca_liscie/plakat1.jpg "Gotowi do pracy")
 
-![Plakat z jesiennych liści](/media/plakat2.jpg "Zwykła-niezwykła ozdoba")
+![Plakat z jesiennych liści](/media/30_leca_liscie/plakat2.jpg "Zwykła-niezwykła ozdoba")
 
 ## Pieczątki z liści
 
 To akurat nam nie wyszło, ale to chyba fajna aktywność. Na [czasdzieci.pl](https://czasdzieci.pl/inspiracje/id,3697408.html) opisane jako bajecznie proste, ale nasze odbitki wyszły mało liściaste. 
 
-![Odbijanie liści pomalowanych farbą](/media/malowanie.jpg "Miało być upiększenie istniejącego już dzieła")
+![Odbijanie liści pomalowanych farbą](/media/30_leca_liscie/malowanie.jpg "Miało być upiększenie istniejącego już dzieła")
 
 ## Dopasowywanie liści do ich obrazków
 
-Takie dopasowanie wymaga niestety przygotowania skanów wysuszonych liści. Można też przygotować obrysy, wtedy będzie dopasowywanie do kształtów. 
+Takie dopasowanie wymaga przygotowania skanów wysuszonych liści. Można też przygotować obrysy, wtedy będzie dopasowywanie do kształtów. 
 
 Wrzucam swoje obrazki - obejrzyj poniżej. Możesz je pobrać w wersji z podpisami i bez [stąd](https://1drv.ms/u/s!AnBGESr7ZM4Nm8sG6mJgOr6dYH2wvA?e=42TCgs), ale jeśli masz możliwość polecam zrobienie z dokładnie takich liści, jakimi Ty dysponujesz.
 
-![Liście - plansza 1](/media/podpisy_1.png)
+![Liście - plansza 1](/media/30_leca_liscie/podpisy_1.png)
 
-![Liście - plansza 2](/media/podpisy_2.png)
+![Liście - plansza 2](/media/30_leca_liscie/podpisy_2.png)
 
-![Liście - plansza 3](/media/podpisy_3.png)
+![Liście - plansza 3](/media/30_leca_liscie/podpisy_3.png)
 
 Wykonanie pomocy:
 * wybierz kilka zasuszonych i płaskich liści, dowiedz się, jak się nazywają 😛
@@ -106,14 +105,14 @@ Zasuszone liście można wykorzystać do lekcji trójstopniowej Montessori. Opis
 
 I jeszcze coś na dworze - no bajka! Aktywność fizyczna, pożyteczna, trochę zabawna, taka bardzo "książkowa" (pozdrawiam pana śmieciarza z książki "Mam przyjaciela śmieciarza"). Grabie dla rodzica, grabki/miotełka dla dziecka, worek i już. Jeśli nie macie swojego kawałka chodnika to ogarniania, myślę, że miejski skwerek też się nada.
 
-![Sprzątanie liści na chodniku](/media/grabienie1.jpg "Szu, szu, szu.")
+![Sprzątanie liści na chodniku](/media/30_leca_liscie/grabienie1.jpg "Szu, szu, szu.")
 
 ## Domek dla jeża ❤ 
 
 Przypadkiem, w gazetce Siedlisko, natrafiłam na artykuł o domku dla jeża. Wystarczy więc skrzynkę, koszyk, czy mały szałas z drewienek okryć porządnie liśćmi i mchem i mamy domek do zimowania. Oczywiście szczerze wątpię, żeby ktoś w nim zamieszkał, ale zabawa zrekompensowała mi ten brak gwarancji sukcesu 😉
 
-![Wycinek z gazety Siedlisko](/media/jez4.jpg "Instrukcja wykonania")
+![Wycinek z gazety Siedlisko](/media/30_leca_liscie/jez4.jpg "Instrukcja wykonania")
 
-![Liście gotowe do użycia](/media/jez1.jpg "Materiał budowlany gotowy")
+![Liście gotowe do użycia](/media/30_leca_liscie/jez1.jpg "Materiał budowlany gotowy")
 
-![Domek dla jeża](/media/jez2.jpg "Witamy pana, panie jeżu.")
+![Domek dla jeża](/media/30_leca_liscie/jez2.jpg "Witamy pana, panie jeżu.")
