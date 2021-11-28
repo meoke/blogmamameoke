@@ -10,64 +10,110 @@ category: aktywnosci
 ---
 Wypełniona frustracją spowodowaną liśćmi marniejącymi w domu po jesiennych spacerach, postanowiłam ująć ten temat w jakieś ramy. 
 
-Wrzucam kilka pomysłów, część oczywistych, część moich, część inspirowanych. Zapewne nic rewolucyjnego - ale mojej zadaniowej naturze pomaga zauważenie, że rozwój naszej relacji z dzieckiem polega na takich właśnie zwyczajnych miniprojektach. 
+Wrzucam kilka pomysłów, część oczywistych, część moich, część inspirowanych. Zapewne nic rewolucyjnego - ale mojej zadaniowej naturze pomaga ich zauważenie i nazwanie. 
 
-1. Spacer i zbieranie liści
-   Instrukcja raczej zbędna 🙃 Poradzę tylko, że pomocne może być wzięcie ze sobą torby, plecaka płóciennego na liście - małym rączkom trudno jest utrzymać bukiet i z nim spacerować, a rodzicielskie ręce niech mają luz.
-2. Bukiet
-   Nasz bukiet tak bardzo mnie cieszy! Wystarczy te liście po powrocie z dworu włożyć w jakieś godne miejsce i nadać mu tytuł eko-sreko-zero-waste jesiennej ozdoby domu. Zdrowo i zabawnie jest otworzyć się też na dziecięce pomysły w tym zakresie - nasz syn do bukietu dołożył patyki. I też jest pięknie 🥰
-3. Zasuszenie liści w książce
-   To już wyższa szkoła jazdy 😎 Żeby wykonać różne kolejne pomysły, liście muszą być wysuszone i płaskie. Trzylatek ogarnął pomaganie - młodsze dzieci, chyba też będą przynajmniej zainteresowane...? Trzeba:
+## Spacer i zbieranie liści
+
+
+   Instrukcja raczej zbędna 🙃 Poradzę tylko, że pomocne może być wzięcie ze sobą torby, plecaka płóciennego na liście - małym rączkom trudno jest utrzymać bukiet i z nim spacerować, a rodzicielskie ręce również zasługują na luz.
+
+   ![Jesienny las](/media/20211028_140453.jpg "Moja ulubiona pora roku")
+
+## Bukiet
+
+
+Wystarczy te liście po powrocie z dworu włożyć w jakieś godne miejsce i nadać mu tytuł eko-sreko-zero-waste jesiennej ozdoby domu. Nasz bukiet tak bardzo mnie cieszy! Zdrowo i zabawnie jest otworzyć się też na dziecięce pomysły w tym zakresie - nasz syn do bukietu dołożył patyki. 
+
+   ![Bukiet z kolorowych liści](/media/bukiet.jpg "Bukiety z liści, patyków i przekwitniętych kwiatów")
+
+## Makieta lasu
+
+
+To już wyższa szkoła jazdy 😎 Inspiracja od [Kasi Frenczak-Sito (kukumag)](https://kukumag.com/jesienne-aktywnosci-pliki-do-pobrania/) Trochę zmodyfikowana, dość czasochłonna, ale nie tak jak mogłoby się wydawać. U nas nieco dzieło przypadku, ale efekt tak fajny, że naprawdę polecam zaplanować coś takiego. Do rzeczy!
+
+Trzeba mieć:
+
+- liście (najlepiej takie zebrane dzień wcześniej - naturalnie pomarszczone, lekko wysuszone)
+- słomki naturalne (ze słomy)
+- tacka (ewentualnie zabezpieczona kartonem, żeby się nie zabrudziła)
+- filc w rozmiarze tacki, w kolorze ziemi
+- glina samoutwardzalna (u nas niebieska, bo to niewykorzystany "odcisk bobasa" z Rossmanna 😛)
+
+Wykonanie:
+
+- w filcu zrobić nacięcia/dziurki, w miejscach gdzie chcemy, by rosły nasze drzewa
+- przygotować glinę, żeby była gotowa do formowania
+- na tacce uklepać "górkę" z gliny (w takim miejscu, żeby zgadzało się z wycięciami w filcu)
+- przykryć glinę filcem
+- powtykać przez dziurki do gliny słomki
+- chwilkę poczekać aż glina zastygnie (dość szybko to się dzieje!)
+- w słomki powtykać liście
+- do lasu wprowadzić mieszkańców, jedzenie dla nich itd. 😊
+
+![Przygotowana glina samoutwarzdalna](/media/makieta1.jpg "Glina i tacka gotowe")
+
+![Wtykanie słomek przez filc do gliny](/media/makieta2.jpg "Wtykanie słomek")
+
+![Wtykanie liści w słomki](/media/makieta4.jpg "Makieta prawie gotowa")
+
+![Makieta lasu](/media/makieta5.jpg "Efekt końcowy :)")
+
+## Zasuszenie liści w książce
+
+Tu trochę czasochłonna opcja, ale w końcu jesienne wieczory są coraz dłuższe... Do kolejnych pomysłów liście muszą być wysuszone i płaskie, trzeba je więc zasuszyć. Trzylatek ogarnął pomaganie - młodsze dzieci, chyba też będą przynajmniej zainteresowane..? Trzeba:
 
 * przygotować duużo gazet/kartek i duże książki
 * powkładać liście między kartki książek, oddzielone oczywiście kartkami
 * bardzo ważne: papier trzeba codziennie (max 2 dni) wymieniać. Komu spleśniały wszystkie liście nazbierane na zielnik w liceum, ten wie o czym mówię...
 * wystarczy kilka dni takich wymianek, i liście się pięknie zasuszą 
 
-4. Plakat
-   No i tu właśnie można wykorzystać liście. Na brystolu, klejem w płynie, przykleiliśmy liście i zawiesiłam taki plakat w pokoju dziecięcym. Przyznaję, dość kontrolowałam wykonanie tej pracy (gdyby nie, plakat składałby się głównie z rozsmarowanego kleju). Ale plakat wisi i cieszy oko.
-5. Makieta lasu
-   Tu inspiracjia od [Kasi Frenczak-Sito (kukumag)](https://kukumag.com/jesienne-aktywnosci-pliki-do-pobrania/) Trochę zmodyfikowana, dość czasochłonna, ale nie tak jak mogłoby się wydawać. U nas nieco dzieło przypadku, ale efekt tak fajny, że naprawdę polecam zaplanować coś takiego. Do rzeczy!
+## Plakat
+No i tu właśnie można wykorzystać liście. Na brystolu, klejem w płynie, przykleiliśmy liście i zawiesiłam taki plakat w pokoju dziecięcym. Przyznaję, dość kontrolowałam wykonanie tej pracy (gdyby nie, plakat składałby się głównie z rozsmarowanego kleju). Ale plakat wisi i cieszy oko.
 
-   Trzeba mieć:
+![Brystol, klej i liście](/media/plakat1.jpg "Gotowi do pracy")
 
-   a. liście (najlepiej takie zebrane, dzień wcześniej - naturalnie pomarszczone, lekko wysuszone)\
-   b. słomki naturalne\
-   c. tacka (ewentualnie zabezpieczona kartonem, żeby się nie zbrudziła)\
-   d. filc w rozmiarze tacki, kolor ziemi\
-   e. glina samoutwardzalna (u nas niebieska, bo to niewykorzystany "odcisk bobasa" z Rossmanna 😛)
+![Plakat z jesiennych liści](/media/plakat2.jpg "Zwykła-niezwykła ozdoba")
 
-   Wykonanie:
+## Pieczątki z liści
 
-   a. w filcu wyciąć dziurki, w miejscach gdzie chcemy by rosły nasze drzewa\
-   b. przygotować glinę, żeby była gotowa do formowania\
-   c. na tacce ułożyć "górkę" z gliny (w takim miejscu, żeby zgadzało się z wycięciami w filcu)\
-   d. przykryć glinę filcem\
-   e. powtykać przez dziurki do gliny słomki\
-   f. chwilkę poczekać aż glina zastygnie (dość szybko to się dzieje!)\
-   g. w słomki powtykać liście\
-   h. do lasu wprowadzić mieszkańców, jedzenie dla nich itd. 😊
-6. Malowanie
+To akurat nam nie wyszło, ale to chyba fajna aktywność. Na [czasdzieci.pl](https://czasdzieci.pl/inspiracje/id,3697408.html) opisane jako bajecznie proste, ale nasze odbitki wyszły mało liściaste. 
 
-   To akurat nam nie wyszło, ale to chyba fajna aktywność. Na [czasdzieci.pl](https://czasdzieci.pl/inspiracje/id,3697408.html) opisane jako bajecznie proste, ale nasze pieczątki wyszły mało liściaste. Może trzeba odbijać je na czystym papierze i mieć więcej precyzji.
-7. Grabienie
+![Odbijanie liści pomalowanych farbą](/media/malowanie.jpg "Miało być upiększenie istniejącego już dzieła")
 
-   No bajka! Aktywność fizyczna na dworze, pożyteczna, trochę zabawna, taka bardzo "książkowa" (pozdrawiam pana śmieciarza z książki "Mam przyjaciela śmieciarza"). Grabie dla rodzica, grabki dla dziecka, worek i już. Jeśli nie macie swojego kawałka chodnika to ogarniania, myślę, że miejski skwerek też się nada.
+## Dopasowywanie liści do ich obrazków
 
-8. Dopasowywanie
+Takie dopasowanie wymaga niestety przygotowania skanów wysuszonych liści. Można też przygotować obrysy, wtedy będzie dopasowywanie do kształtów. 
 
-Takie dopasowanie wymaga niestety przygotowania skanów wysuszonych liści. 
+Wrzucam swoje obrazki - obejrzyj poniżej. Możesz je pobrać w wersji z podpisami i bez [stąd](https://1drv.ms/u/s!AnBGESr7ZM4Nm8sG6mJgOr6dYH2wvA?e=42TCgs), ale jeśli masz możliwość polecam zrobienie z dokładnie takich liści, jakimi Ty dysponujesz.
 
-Wrzucam swoje obrazki, możesz je wydrukować, ale jeśli masz możliwość polecam zrobienie z dokładnie takich liście, jakimi Ty dysponujesz.
+![Liście - plansza 1](/media/podpisy_1.png)
+
+![Liście - plansza 2](/media/podpisy_2.png)
+
+![Liście - plansza 3](/media/podpisy_3.png)
 
 Wykonanie pomocy:
-a. wybierz kilka zasuszonych i płaskich liści, dowiedz się, jak się nazywają
-b. ułoż je na skanerze, przykryte białą kartką
-c. zeskanuj i wydrukuj (polecam dołożyć podpis, żeby umieć je nazywać w trakcie zabawy)
-d. pokaż dziecku wydruk wraz z liścmi i na pewno chętnie spróbuje je dopasować do obrazków
-e. korzystaj ze ściągi przy rozmawianiu o używanych liściach 😎
+* wybierz kilka zasuszonych i płaskich liści, dowiedz się, jak się nazywają 😛
+* ułoż je na skanerze, przykryte białą kartką
+* zeskanuj i wydrukuj (polecam dołożyć podpis, żeby umieć je nazywać w trakcie zabawy)
+* pokaż dziecku wydruk wraz z liścmi i na pewno chętnie spróbuje je dopasować do obrazków
+* korzystaj ze ściągi przy rozmawianiu o używanych liściach 😎
 
-9. Lekcja trójstopniowa
+## Lekcja trójstopniowa
 Zasuszone liście można wykorzystać do lekcji trójstopniowej Montessori. Opisywałam jej wykonanie [tutaj](https://mamameoke.pl/posts/ziola-puszki-lekcja).
 
-Dziś za oknem spadł już pierwszy śnieg i sprawa liści jest już nieaktualna, to może przyda się na kolejną polską złotą jesień...
+## Grabienie
+
+I jeszcze coś na dworze - no bajka! Aktywność fizyczna, pożyteczna, trochę zabawna, taka bardzo "książkowa" (pozdrawiam pana śmieciarza z książki "Mam przyjaciela śmieciarza"). Grabie dla rodzica, grabki/miotełka dla dziecka, worek i już. Jeśli nie macie swojego kawałka chodnika to ogarniania, myślę, że miejski skwerek też się nada.
+
+![Sprzątanie liści na chodniku](/media/grabienie1.jpg "Szu, szu, szu.")
+
+## Domek dla jeża ❤ 
+
+Przypadkiem, w gazetce Siedlisko, natrafiłam na artykuł o domku dla jeża. Wystarczy więc skrzynkę, koszyk, czy mały szałas z drewienek okryć porządnie liśćmi i mchem i mamy domek do zimowania. Oczywiście szczerze wątpię, żeby ktoś w nim zamieszkał, ale zabawa zrekompensowała mi ten brak gwarancji sukcesu 😉
+
+![Wycinek z gazety Siedlisko](/media/jez4.jpg "Instrukcja wykonania")
+
+![Liście gotowe do użycia](/media/jez1.jpg "Materiał budowlany gotowy")
+
+![Domek dla jeża](/media/jez2.jpg "Witamy pana, panie jeżu.")
