@@ -6,7 +6,7 @@ socialImage: /media/30_leca_liscie/spacer.jpg
 draft: false
 date: 2021-11-27T12:03:06.990Z
 description: Klika pomysłów na aktywności z liśćmi
-category: aktywnosci
+category: aktywności
 ---
 Wypełniona frustracją spowodowaną liśćmi marniejącymi w domu po jesiennych spacerach, postanowiłam ująć ten temat w jakieś ramy. 
 
@@ -83,13 +83,9 @@ To akurat nam nie wyszło, ale to chyba fajna aktywność. Na [czasdzieci.pl](ht
 
 Takie dopasowanie wymaga przygotowania skanów wysuszonych liści. Można też przygotować obrysy, wtedy będzie dopasowywanie do kształtów. 
 
-Wrzucam swoje obrazki - obejrzyj poniżej. Możesz je pobrać w wersji z podpisami i bez [stąd](https://1drv.ms/u/s!AnBGESr7ZM4Nm8sG6mJgOr6dYH2wvA?e=42TCgs), ale jeśli masz możliwość polecam zrobienie z dokładnie takich liści, jakimi Ty dysponujesz.
+Wrzucam poniżej przykładowy obrazek. Możesz pobrać wszystkie moje arkusze w wersji z podpisami i bez [stąd](https://1drv.ms/u/s!AnBGESr7ZM4Nm8sG6mJgOr6dYH2wvA?e=42TCgs), ale jeśli masz możliwość polecam zrobienie z dokładnie takich liści, jakimi Ty dysponujesz.
 
 ![Liście - plansza 1](/media/30_leca_liscie/podpisy_1.png)
-
-![Liście - plansza 2](/media/30_leca_liscie/podpisy_2.png)
-
-![Liście - plansza 3](/media/30_leca_liscie/podpisy_3.png)
 
 Wykonanie pomocy:
 * wybierz kilka zasuszonych i płaskich liści, dowiedz się, jak się nazywają 😛
