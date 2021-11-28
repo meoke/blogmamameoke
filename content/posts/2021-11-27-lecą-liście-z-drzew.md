@@ -3,9 +3,9 @@ template: post
 title: Lecą liście z drzew...
 slug: czyli jesienne zajęcia z wykorzystaniem liści
 socialImage: /media/20211028_140453.jpg
-draft: true
+draft: false
 date: 2021-11-27T12:03:06.990Z
-description: " Test"
+description: Klika pomysłów na aktywności z liśćmi
 category: aktywnosci
 ---
 Wypełniona frustracją spowodowaną liśćmi marniejącymi w domu po jesiennych spacerach, postanowiłam ująć ten temat w jakieś ramy. 
