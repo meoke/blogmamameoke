@@ -94,6 +94,10 @@ Wykonanie pomocy:
 * pokaż dziecku wydruk wraz z liścmi i na pewno chętnie spróbuje je dopasować do obrazków
 * korzystaj ze ściągi przy rozmawianiu o używanych liściach 😎
 
+![Pomoc na półce](/media/30_leca_liscie/skany3.jpg)
+
+![Pomoc w użyciu](/media/30_leca_liscie/skany2.jpg)
+
 ## Lekcja trójstopniowa
 Zasuszone liście można wykorzystać do lekcji trójstopniowej Montessori. Opisywałam jej wykonanie [tutaj](https://mamameoke.pl/posts/ziola-puszki-lekcja).
 
