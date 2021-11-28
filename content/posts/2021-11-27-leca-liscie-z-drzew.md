@@ -22,7 +22,7 @@ Wrzucam kilka pomysłów, część oczywistych, część moich, część inspiro
 ## Bukiet
 
 
-Wystarczy te liście po powrocie z dworu włożyć w jakieś godne miejsce i nadać mu tytuł eko-sreko-zero-waste jesiennej ozdoby domu. Nasz bukiet tak bardzo mnie cieszy! Zdrowo i zabawnie jest otworzyć się też na dziecięce pomysły w tym zakresie - nasz syn do bukietu dołożył patyki. 
+Wystarczy te liście po powrocie z dworu włożyć w jakieś godne miejsce i nadać mu tytuł eko-zero-waste jesiennej ozdoby domu. Nasz bukiet tak bardzo mnie cieszy! Zdrowo i zabawnie jest otworzyć się też na dziecięce pomysły w tym zakresie - nasz syn do bukietu dołożył patyki. 
 
    ![Bukiet z kolorowych liści](/media/30_leca_liscie/bukiet.jpg "Bukiety z liści, patyków i przekwitniętych kwiatów")
 
